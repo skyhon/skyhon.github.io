@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Steve Hon&#039;s Portfolio &#8211; skyhon.com</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=15" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=128" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 22 Sep 2023 20:38:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 22 Sep 2023 22:14:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
